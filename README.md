@@ -1,1 +1,2 @@
 # Learn
+Learning is fun!
